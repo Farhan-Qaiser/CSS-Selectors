@@ -1,0 +1,71 @@
+/* UNIVERSAL SELECTORS */
+
+/* *{
+    color: red;
+} */
+
+
+/* TYPE SELECTOR */
+
+/* single */
+/* 
+h1{
+    color: red;
+} */
+
+/* multiple */
+/* 
+h2,span{
+    color: blue;
+} */
+
+
+/* CLASS SELECTOR */
+/* 
+.heading{
+    color: red;
+} */
+
+
+
+/* ID SELECTOR */
+
+/* 
+#head-title{
+    color: red;
+} */
+
+
+/* CHILD SELECTOR */
+
+/* 
+li>h2{
+    color: red;
+} */
+
+
+
+/* DESCENDNT SELECTOR */
+/* 
+li p{
+    color: red;
+} */
+
+
+
+/* ADJACENT SIBLING SELECTOR */
+
+/* 
+h2+p{
+    color: red;
+} */
+
+
+
+/* GENERAL SIBLING SELECTOR */
+
+
+/* 
+h3~p{
+    color: red;
+} */
